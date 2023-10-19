@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const StatisticsWrapper = styled.div`
   display: flex;
   justify-content: space-between;
+  align-items: end;
   gap: 8px;
 
   color: #050505;
